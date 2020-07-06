@@ -385,6 +385,26 @@
   </entry>
   
   <entry>
+    <title>&#39;github提交超时&#39;</title>
+    <link href="https://wangdabao.js.org/2018/02/22/github%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95/"/>
+    <id>https://wangdabao.js.org/2018/02/22/github提交记录/</id>
+    <published>2018-02-22T07:54:48.000Z</published>
+    <updated>2020-07-06T08:48:34.580Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="github提交超时原因总结"><a href="#github提交超时原因总结" class="headerlink" title="github提交超时原因总结"></a>github提交超时原因总结</h2><a id="more"></a><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><blockquote><p>吐槽下: 自从github改版以后<strong>GitHub Pages</strong>的浏览速度感觉慢了好多。</p></blockquote><h3 id="问题产生与解决"><a href="#问题产生与解决" class="headerlink" title="问题产生与解决"></a>问题产生与解决</h3><p>起初问题产生就是因为我在提交代码的时候一直提示超时, 我一直使用的是<code>ssh</code>的方式提交的, 换成了<code>https</code>以后正常。<br>只要使用<code>ssh</code>的方式必超时, 为了解决这个问题我排查了下, 排除了git代理的原因, 排除了科学上网的方式。谷歌了下, 尝试了一些办法发现还是没有解决问题。<br>机缘巧合下在某个周日下午, 打开电脑在换了搜索关键词, 其中有提到了<code>hosts</code>中有配置过<code>github.com</code>。我突然警醒, 我确实也配置过hosts, 我注释了其中github部分。再去提交代码通过了。<br>原因是github.com的ip可能不是我之前配置过的。<br>至此结束。</p><p><img src="http://qiniu.shanch.cn/WX20200706-164230@2x.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;github提交超时原因总结&quot;&gt;&lt;a href=&quot;#github提交超时原因总结&quot; class=&quot;headerlink&quot; title=&quot;github提交超时原因总结&quot;&gt;&lt;/a&gt;github提交超时原因总结&lt;/h2&gt;
+    
+    </summary>
+    
+    
+      <category term="总结" scheme="https://wangdabao.js.org/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>&#39;2017年度总结&#39;</title>
     <link href="https://wangdabao.js.org/2018/02/22/2017%E5%B9%B4%E6%80%BB%E7%BB%93/"/>
     <id>https://wangdabao.js.org/2018/02/22/2017年总结/</id>
