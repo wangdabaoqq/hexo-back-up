@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wangdabao.js.org/photos/ins.json</loc>
+    <loc>https://wangdabao.js.org/photos/video.html</loc>
     
     <lastmod>2020-07-05T11:49:17.977Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/photos/video.html</loc>
+    <loc>https://wangdabao.js.org/photos/ins.json</loc>
     
     <lastmod>2020-07-05T11:49:17.977Z</lastmod>
     
@@ -30,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/book/data.json</loc>
+    <loc>https://wangdabao.js.org/book/index.html</loc>
     
     <lastmod>2020-07-05T11:49:17.975Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/book/index.html</loc>
+    <loc>https://wangdabao.js.org/book/data.json</loc>
     
     <lastmod>2020-07-05T11:49:17.975Z</lastmod>
     
@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/assets/demo/jiugongge_demo.html</loc>
+    <loc>https://wangdabao.js.org/assets/demo/jiugongge_demo2.html</loc>
     
     <lastmod>2020-07-05T11:49:17.893Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/assets/demo/jiugongge_demo2.html</loc>
+    <loc>https://wangdabao.js.org/assets/demo/jiugongge_demo.html</loc>
     
     <lastmod>2020-07-05T11:49:17.893Z</lastmod>
     
@@ -177,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/2018/07/09/%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://wangdabao.js.org/2020/03/03/%E5%A4%8D%E5%B7%A5%E8%AE%B0/</loc>
     
     <lastmod>2020-07-05T11:49:17.874Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/2020/03/03/%E5%A4%8D%E5%B7%A5%E8%AE%B0/</loc>
+    <loc>https://wangdabao.js.org/2018/07/09/%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2020-07-05T11:49:17.874Z</lastmod>
     
@@ -296,14 +296,14 @@
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/2018/04/23/Javascript%E5%BC%82%E6%AD%A5%E4%B8%8E%E5%90%8C%E6%AD%A5/</loc>
+    <loc>https://wangdabao.js.org/2018/04/28/Chrome%E6%8F%92%E4%BB%B6/</loc>
     
     <lastmod>2020-07-05T11:49:17.869Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wangdabao.js.org/2018/04/28/Chrome%E6%8F%92%E4%BB%B6/</loc>
+    <loc>https://wangdabao.js.org/2018/04/23/Javascript%E5%BC%82%E6%AD%A5%E4%B8%8E%E5%90%8C%E6%AD%A5/</loc>
     
     <lastmod>2020-07-05T11:49:17.869Z</lastmod>
     
